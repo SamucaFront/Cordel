@@ -2,7 +2,8 @@
 
 Uma página simples com efeito parallax inspirada na literatura de cordel.
 
-🔗 Acesse aqui: [cordel.samu.dev](https://tinyurl.com/CordelWeb)
+[Acesse aqui](https://samucafront.github.io/Cordel/)
+
 
 ## Tecnologias
 - HTML
